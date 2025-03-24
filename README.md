@@ -2,77 +2,77 @@
 
 📌 Project Overview
 
-This project aims to forecast product sales using machine learning based on historical sales data. By analyzing various factors such as advertising spend, promotions, and customer segmentation, the model helps businesses optimize marketing strategies for sales growth.
+    This project aims to forecast product sales using machine learning based on historical sales data. By analyzing various factors such as advertising spend, promotions, and customer segmentation, the model helps businesses optimize marketing strategies for sales growth.
 
 🚀 Features
 
-📊 Data preprocessing: Handling missing values, outliers, and feature scaling.
+1. 📊 Data preprocessing: Handling missing values, outliers, and feature scaling.
 
-🔍 Exploratory Data Analysis (EDA) to understand key sales trends.
+2. 🔍 Exploratory Data Analysis (EDA) to understand key sales trends.
 
-🤖 Model training using regression algorithms to predict future sales.
+3. 🤖 Model training using regression algorithms to predict future sales.
 
-📈 Model evaluation using appropriate metrics such as RMSE, MAE, and R-squared.
+4. 📈 Model evaluation using appropriate metrics such as RMSE, MAE, and R-squared.
 
-📉 Visualization of predictions and insights for business optimization.
+5. 📉 Visualization of predictions and insights for business optimization.
 
 📂 Dataset
 
 The dataset consists of historical sales records, including:
 
-Date: Timestamp of sales record
+1. Date: Timestamp of sales record
 
-Sales Volume: Number of units sold
+2. Sales Volume: Number of units sold
 
-Advertising Spend: Amount spent on marketing
+3. Advertising Spend: Amount spent on marketing
 
-Customer Segments: Demographic information of buyers
+4. Customer Segments: Demographic information of buyers
 
-Promotional Discounts: Impact of sales promotions on sales volume
+5. Promotional Discounts: Impact of sales promotions on sales volume
 
 🛠 Installation & Setup
 
-Clone this repository:
+1. Clone this repository:
 
-git clone [https://github.com/yourusername/sales-forecasting.git](https://github.com/Shaan2522/Data-Science.git)
+```git clone [https://github.com/yourusername/sales-forecasting.git](https://github.com/Shaan2522/Data-Science.git)```
 
-Install dependencies:
+2. Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-Run the Jupyter Notebook or Python script:
+3. Run the Jupyter Notebook or Python script:
 
-jupyter notebook Car_Sales_Price_Prediction.ipynb
+```jupyter notebook Car_Sales_Price_Prediction.ipynb```
 
 🏗 Data Preprocessing
 
-Handling Missing Values: Imputed using mean/median/mode.
+1. Handling Missing Values: Imputed using mean/median/mode.
 
-Outlier Detection: Used IQR method to remove extreme values.
+2. Outlier Detection: Used IQR method to remove extreme values.
 
-Feature Scaling: Standardized numerical variables using MinMaxScaler/StandardScaler.
+3. Feature Scaling: Standardized numerical variables using MinMaxScaler/StandardScaler.
 
-Encoding Categorical Data: Used One-Hot Encoding for categorical features.
+4. Encoding Categorical Data: Used One-Hot Encoding for categorical features.
 
 🤖 Model Training
 
-Trained Linear Regression, Decision Tree, and Random Forest models.
+1. Trained Linear Regression, Decision Tree, and Random Forest models.
 
-Compared model performance using:
+2. Compared model performance using:
 
-Mean Squared Error (MSE)
+      Mean Squared Error (MSE)
 
-Mean Absolute Error (MAE)
+      Mean Absolute Error (MAE)
 
-R-squared score
+3. R-squared score
 
 📊 Model Evaluation & Results
 
-The Random Forest model performed best, achieving the lowest RMSE.
+1. The Random Forest model performed best, achieving the lowest RMSE.
 
-Feature importance analysis revealed that advertising spend and promotional discounts had the highest impact on sales.
+2. Feature importance analysis revealed that advertising spend and promotional discounts had the highest impact on sales.
 
-Predictions showed a strong correlation with actual sales trends.
+3. Predictions showed a strong correlation with actual sales trends.
 
 🎯 Conclusion
 
