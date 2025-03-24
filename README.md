@@ -34,7 +34,7 @@ The dataset consists of historical sales records, including:
 
 1. Clone this repository:
 
-```git clone [https://github.com/yourusername/sales-forecasting.git](https://github.com/Shaan2522/Data-Science.git)```
+```git clone https://github.com/yourusername/sales-forecasting.git```
 
 2. Install dependencies:
 
