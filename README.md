@@ -6,29 +6,29 @@
 
 🚀 Features
 
-1. 📊 Data preprocessing: Handling missing values, outliers, and feature scaling.
+1. 📊 **Data preprocessing**: Handling missing values, outliers, and feature scaling.
 
-2. 🔍 Exploratory Data Analysis (EDA) to understand key sales trends.
+2. 🔍 **Exploratory Data Analysis (EDA)** to understand key sales trends.
 
-3. 🤖 Model training using regression algorithms to predict future sales.
+3. 🤖 **Model training** using regression algorithms to predict future sales.
 
-4. 📈 Model evaluation using appropriate metrics such as RMSE, MAE, and R-squared.
+4. 📈 **Model evaluation** using appropriate metrics such as RMSE, MAE, and R-squared.
 
-5. 📉 Visualization of predictions and insights for business optimization.
+5. 📉 **Visualization** of predictions and insights for business optimization.
 
 📂 Dataset
 
 The dataset consists of historical sales records, including:
 
-1. Date: Timestamp of sales record
+1. **Date**: Timestamp of sales record
 
-2. Sales Volume: Number of units sold
+2. **Sales Volume**: Number of units sold
 
-3. Advertising Spend: Amount spent on marketing
+3. **Advertising Spend**: Amount spent on marketing
 
-4. Customer Segments: Demographic information of buyers
+4. **Customer Segments**: Demographic information of buyers
 
-5. Promotional Discounts: Impact of sales promotions on sales volume
+5. **Promotional Discounts**: Impact of sales promotions on sales volume
 
 🛠 Installation & Setup
 
@@ -46,13 +46,13 @@ The dataset consists of historical sales records, including:
 
 🏗 Data Preprocessing
 
-1. Handling Missing Values: Imputed using mean/median/mode.
+1. **Handling Missing Values**: Imputed using mean/median/mode.
 
-2. Outlier Detection: Used IQR method to remove extreme values.
+2. **Outlier Detection**: Used IQR method to remove extreme values.
 
-3. Feature Scaling: Standardized numerical variables using MinMaxScaler/StandardScaler.
+3. **Feature Scaling**: Standardized numerical variables using MinMaxScaler/StandardScaler.
 
-4. Encoding Categorical Data: Used One-Hot Encoding for categorical features.
+4. **Encoding Categorical Data**: Used One-Hot Encoding for categorical features.
 
 🤖 Model Training
 
